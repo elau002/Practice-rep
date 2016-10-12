@@ -7,6 +7,10 @@ var sum = function(arr) {
     }
   }
   return result;
+<<<<<<< HEAD
 }
+=======
+};
+>>>>>>> f8fdfec0182d64e5f60e4c7a676e44c7b222e54d
 
 
